@@ -1,1 +1,0 @@
-Code for CS 301 Custom Coloring Assignment.
